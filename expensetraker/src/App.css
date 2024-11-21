@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.App{
+  padding: 1rem;
+}
+
+.inner-section{
+  padding: 1rem;
+  background-color:#3B3B3B;
+  color: white;
+  border-radius: 10px
+  ;
+}
+
+.expenses-section{
+ margin-top: 3rem;
+}
